@@ -1,0 +1,25 @@
+.MalibanfirstImgEng{
+  height: 250px;
+  width: 300px;
+  background-image: url('./asset/300\ x\ 250\ slide\ 1.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.clock{
+  padding-top: 165px;
+
+  width: fit-content;
+  padding-left: 30px;
+}
+.FlipClock .flipUnitContainer .ContainerTitle {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: -15px;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: rgb(247, 245, 245);
+}  
